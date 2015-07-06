@@ -6,6 +6,7 @@
 [Picasso](https://github.com/square/picasso) | [Trinea](https://github.com/Trinea) | | 06/19 | 06/20 | 06/25 | 06/27 | 06/30 | 07/01 
 [okhttp](https://github.com/square/okhttp) | [ayyb1988](https://github.com/ayyb1988) | | 06/21 | 06/29 | 07/10 | 07/20 | 08/00 | 08/15 
 [ijkplayer](https://github.com/Bilibili/ijkplayer) | [ayyb1988](https://github.com/ayyb1988) | | 06/21 | 06/29 | 07/10 | 07/20 | 08/00 | 08/15 
+[RxJava](https://github.com/ReactiveX/RxJava) | [ChrisZou](https://github.com/ChrisZou) | | 07/12 | 07/19 | 07/26 | 08/01 | 08/08 | 08/15 
 
 ####3. 二期计划(进行中)
 大家根据自己的时间安排补充 Demo、功能介绍、详细设计、流程图、总体设计、完成 6个阶段的 DeadLine 时间点。  
