@@ -7,3 +7,5 @@ Retrofit 源码解析
 
 ###1. 功能介绍  
 ####1.1. Retrofit
+Retrofit是由Square在github上牵头开源开发的网络访问框架，使用方便，速度快，安全稳定，定制灵活。
+> 官方介绍为：Type-safe REST client for Android and Java by Square, Inc.
